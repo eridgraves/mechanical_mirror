@@ -1,6 +1,5 @@
 # Mechanical_Mirror
-Driver code for a "Mechanical" mirror, as seen here: https://www.smoothware.com/danny/newshinyballsmirror.html
+Code to translate image information to motor position for a "Mechanical" mirror, as seen here: https://www.smoothware.com/danny/newshinyballsmirror.html
 
-
-#Use
+## Use
 See requirements.txt for packages in environment.
